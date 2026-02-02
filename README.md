@@ -1,3 +1,4 @@
 # GitHubBoards
 Testing GitHub workflows
-Manual modify of readme
+
+# Version 1.0.0
