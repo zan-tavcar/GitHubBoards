@@ -1,1 +1,2 @@
 Adding some context
+Close #7
